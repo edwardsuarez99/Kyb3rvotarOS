@@ -8,7 +8,7 @@ Un pequeño script progrmando en bash para poder instalarse el entonrno de escri
 ```bash
 sudo apt-get install wget git -y
 cd ~
-wget https://raw.githubusercontent.com/kyb3rbat/Kyb3rvotarOS/master/install.sh
+wget https://raw.githubusercontent.com/kyb3rvizsla-others/Kyb3rvotarOS/master/install.sh
 chmod +x install.sh
 sudo apt-get update
 ./install.sh
@@ -78,10 +78,10 @@ exit
 ```bash
 rm ~/.p10k.zsh
 cd ~
-wget https://raw.githubusercontent.com/kyb3rbat/configs_Kyb3rvotarOS/master/zsh/p10k_normal.zsh
+wget https://raw.githubusercontent.com/kyb3rvizsla-others/configs_Kyb3rvotarOS/master/zsh/p10k_normal.zsh
 mv ~/p10k_normal.zsh ~/.p10k.zsh
 cd ~
-wget https://raw.githubusercontent.com/kyb3rbat/configs_Kyb3rvotarOS/master/kyb3r_config/zshrc
+wget https://raw.githubusercontent.com/kyb3rvizsla-others/configs_Kyb3rvotarOS/master/kyb3r_config/zshrc
 rm ~/.zshrc
 mv ~/zshrc ~/.zshrc
 ```
@@ -117,7 +117,7 @@ rm .zshrc
 sudo ln -s -f /home/username/.zshrc /root/.zshrc
 rm .p10k.zsh
 cd ~
-wget https://raw.githubusercontent.com/kyb3rbat/configs_Kyb3rvotarOS/master/zsh/p10k_root.zsh
+wget https://raw.githubusercontent.com/kyb3rvizsla-others/configs_Kyb3rvotarOS/master/zsh/p10k_root.zsh
 mv /root/p10k_root.zsh /root/.p10k.zsh
 ```
 
@@ -129,7 +129,7 @@ sudo usermod --shell /usr/bin/zsh username
 ```
 
 En los campos "username" debe ir tu usuario normal (si lo instalaste en root deberas puedes saltarte este paso 🙃)
-Ahora ya has terminado de configurarse el entorno de trabajo siguenos en nuestras redes sociales y luego despues de ello puedes hacer un kill -9 -1 para iniciar la confuración tambien puedes ver como hacer todo esto manualmente en el video de mi compañero @s4vitar en este link: [nmapypadentro](https://www.youtube.com/watch?v=MF4qRSedmEs&t=7848s) o instalarte mi variación a esta genial configuración [aqui](https://github.com/kyb3r-bat/configs_Kyb3rvotarOS/blob/master/kyb3r_config/Install.md), o si eres muy peresozo y quieres ya todo esto configurando puedes ir [aqui](https://github.com/kyb3r-bat/Kyb3rvotarOS/releases) y descargarte el sistema ya configurado 🤩
+Ahora ya has terminado de configurarse el entorno de trabajo siguenos en nuestras redes sociales y luego despues de ello puedes hacer un kill -9 -1 para iniciar la confuración tambien puedes ver como hacer todo esto manualmente en el video de mi compañero @s4vitar en este link: [nmapypadentro](https://www.youtube.com/watch?v=MF4qRSedmEs&t=7848s) o instalarte mi variación a esta genial configuración [aqui](https://github.com/initr5/configs_Kyb3rvotarOS/blob/master/kyb3r_config/Install.md), o si eres muy peresozo y quieres ya todo esto configurando puedes ir [aqui](https://github.com/initr5/Kyb3rvotarOS/releases) y descargarte el sistema ya configurado 🤩
 
 ## Contact
 
@@ -150,7 +150,7 @@ Ahora ya has terminado de configurarse el entorno de trabajo siguenos en nuestra
 
 - [Twitter](https://twitter.com/kyb3r_bat)
 - [Instagram](https://www.instagram.com/kyb3r_bat/)
-- [GitHub](https://www.github.com/kyb3r-bat)
+- [GitHub](https://www.github.com/initr5)
 - [Youtube](https://www.youtube.com/channel/UC9DHO7qi_-bLPquT0MLyyxQ)
-- [ALL](https://allmylinks.com/kyb3r-bat)
+- [ALL](https://allmylinks.com/initr5)
 <!--- [Page](https://byt3.exe.github.com)-->
